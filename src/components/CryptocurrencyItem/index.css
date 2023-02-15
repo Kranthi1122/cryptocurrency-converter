@@ -1,0 +1,17 @@
+/* Write your CSS code here */
+li {
+  display: flex;
+  justify-content: space-between;
+}
+.bitcoin {
+  display: flex;
+}
+p {
+  color: white;
+  font-family: 'Roboto';
+  font-weight: 500;
+  margin: 10px;
+}
+.image {
+  height: 25px;
+}

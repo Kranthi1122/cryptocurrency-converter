@@ -1,0 +1,19 @@
+/* Write your CSS code here */
+h1 {
+  color: #00e7ff;
+  font-family: 'Roboto';
+}
+.big {
+  border: 2px solid #00e7ff;
+}
+.small {
+  background-color: #092e33;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+.pk {
+  display: flex;
+  justify-content: space-between;
+  width: 100px;
+}
